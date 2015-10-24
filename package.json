@@ -1,0 +1,16 @@
+{
+  "name": "NodeJS_Dojo",
+  "version": "0.0.0",
+  "description": "A Spotify clone for educational purposes only",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Atehortua",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "hbs": "^3.1.1"
+  }
+}
